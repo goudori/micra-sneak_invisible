@@ -1,0 +1,4 @@
+name: Ten_micra
+version: '${version}'
+main: plugin.ten_micra.Main
+api-version: '1.20'
